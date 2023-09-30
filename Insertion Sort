@@ -1,3 +1,4 @@
+// Code to sort an array using the Heap Sort
 class InsertionSort {
 	/*Function to sort array using insertion sort*/
 	void sort(int arr[])
