@@ -1,3 +1,4 @@
+// Code to sort an array using the selection Sort
 class SelectionSort
 {
 	void sort(int arr[])
